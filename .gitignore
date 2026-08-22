@@ -1,0 +1,17 @@
+# Technical and generated artifacts are outside the discussion repository.
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+*.bak
+*.env
+*.env.*
+credentials*
+secrets*
+output/
+outputs/
+tmp/
+runtime/
+node_modules/
+__pycache__/
