@@ -175,4 +175,4 @@
 
 Подробная рабочая матрица: `REAL_ESTATE_REALTOR_E2E_PURCHASE_MATRIX_2026.md`.
 Общий протокол дискуссии о текущей и будущей роли риэлтора:
-`REAL_ESTATE_REALTOR_ROLE_DISCUSSION_2026.md`.
+[рабочей записи о роли риэлтора](meetings/UNDATED_REALTOR_ROLE_DISCUSSION/WORKING_NOTE.md).
